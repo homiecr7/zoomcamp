@@ -2,3 +2,5 @@
 ny_taxi_postgres_data/
 .terraform
 de-camp-382812-2b8bfd0b0e89.json
+output.csv
+output.parquet
